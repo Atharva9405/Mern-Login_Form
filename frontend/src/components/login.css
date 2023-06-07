@@ -1,0 +1,42 @@
+form {
+  margin-left: 32%;
+  margin-right: 32%;
+  width: 60%;
+}
+.normal {
+  margin-left: 12%;
+  font-size: 27px;
+}
+p {
+  margin-left: 21%;
+  font-size: 17px;
+}
+
+.loginForm input[type="text"],
+.loginForm input[type="password"] {
+  border-radius: 0%;
+  width: 50%;
+  background: transparent;
+  border: none;
+  border-bottom: 1px solid #000000;
+  padding: 2px 5px;
+}
+
+.container {
+  padding: 10px;
+}
+.loginForm button[type="submit"] {
+  margin-top: 2px;
+  background-color: palevioletred;
+  margin-left: 50px;
+  width: 80px;
+  height: 40px;
+  font-size: 16px;
+}
+
+.col-sm-6 {
+  background-color: whitesmoke;
+  height: 350px;
+  margin-left: 25%;
+  border-bottom: 4px;
+}
